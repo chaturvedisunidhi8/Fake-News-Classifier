@@ -6,7 +6,7 @@ uploaded = files.upload()
 import pandas as pd
 df = pd.read_csv("tweets.csv")
 
-df.head()
+df.head() 
  
 
 # Display the shape of the dataframe
