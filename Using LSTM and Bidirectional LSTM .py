@@ -7,7 +7,7 @@ import pandas as pd
 df = pd.read_csv("tweets.csv")
 
 df.head()
-
+ 
 
 # Display the shape of the dataframe
 print(df.shape)
