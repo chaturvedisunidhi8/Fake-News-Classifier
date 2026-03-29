@@ -1,5 +1,5 @@
 from google.colab import files
-uploaded = files.upload()
+uploaded = files.upload() 
 
 !unzip tweets.csv.zip
 
