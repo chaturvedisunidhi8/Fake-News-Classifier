@@ -23,7 +23,7 @@ df = df.dropna()
 df.head()
 
 # Independent feature (text)
-X = df['title']
+X = df['title'] 
 
 # Dependent label
 y = df['label']
